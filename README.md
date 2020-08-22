@@ -27,7 +27,7 @@ Config example:
 	"target": "https://steamcommunity.com/id/gunthersuper",
 	"steamid": "76561198261256059",
 	"perChunk": 3,
-  "betweenChunks": 5000,
+	"betweenChunks": 5000,
 	"amount": 0
 }
 
